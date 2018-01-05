@@ -7,7 +7,7 @@ BASE_URL = 'https://akitbalian.bridgeapp.com'
 url = BASE_URL + '/api/admin/users/' #this is the API URI
 
 #API Authorization in base64 format
-base64string =  'M2YwNzU5ZjctYzExOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
+base64string =  'M2YwNzU5ZjctYzfsdafasdftMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
 
 #header with authorization to access the Bridge API
 bridgeHeaders = {'content-type': 'application/json', 'Authorization': 'Basic ' + str(base64string)}

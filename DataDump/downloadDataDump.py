@@ -10,7 +10,7 @@ import zipfile
 API_KEY = '3f0759f7-c119-4232-b5b2-352ed0072704'; #content
 API_SECRET = '3b2048fc-f31a-45ee-8dee-6b32d53014ee'; #content
 BASE_URL = 'https://akitbalian.bridgeapp.com'; #content
-TOKEN = 'M2YwNzU5ZjctYzExOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='; #content
+TOKEN = 'M2YwNzU5ZjctYzExOS00MjMyLWI1fdsfsdgfsdgdDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='; #content
 
 def getDataDump(directoryPath):
 	base64string = base64.encodestring('%s:%s' % (API_KEY, API_SECRET)).replace('\n', '')

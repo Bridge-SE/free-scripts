@@ -11,7 +11,7 @@ import os
 #API_KEY = '3f0759f7-c119-4232-b5b2-352ed0072704'; #content
 #API_SECRET = '3b2048fc-f31a-45ee-8dee-6b32d53014ee'; #content
 BASE_URL = 'https://akitbalian.bridgeapp.com'; #content
-base64string = 'M2YwNzU5ZjctYzExOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='; #content
+base64string = 'M2YwNzU5ZjctYzExOSfsadfsfsdWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='; #content
 
 directoryPath = '/Users/akitbalian/Desktop/'
         #base64string = base64.encodestring('%s:%s' % (API_KEY, API_SECRET)).replace('\n', '')

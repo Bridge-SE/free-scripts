@@ -5,11 +5,11 @@ dataDumpPath = '/mnt/python/AuditTrail/'
 
 #API & Sandbox Configurations - set these using your Bridge sandbox API token
 sandboxURL = 'https://akitbalian.bridgeapp.com'
-base64string = 'M2YwNzU5ZjctYzExOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
+base64string = 'M2YwNzU5Zjcasdgasgdfsadd00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
 
 
 #Email configurations
-toEmail = 'akitbalian@instructure.com'
+toEmail = 'akitfsdfalian@instructure.com'
 fromEmail = 'notifications@akitbalian.bridgeapp.com'
 emailSubject = 'Course Change Monthly Report'
 

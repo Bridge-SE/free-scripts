@@ -4,7 +4,7 @@ import json
 
 #API URL 
 BASE_URL = 'https://akitbalian.bridgeapp.com'
-base64string =  'M2YwNzU5ZjctYzExOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
+base64string =  'M2YwNzU5gdgdsfgsdxOS00MjMyLWI1YjItMzUyZWQwMDcyNzA0OjNiMjA0OGZjLWYzMWEtNDVlZS04ZGVlLTZiMzJkNTMwMTRlZQ=='
 url = BASE_URL + '/api/author/course_templates/'
 
 #header with authorization to access the Bridge API
