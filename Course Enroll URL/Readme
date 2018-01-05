@@ -1,0 +1,12 @@
+Readme
+Description:
+This script is meant to retrieve a course enroll URL using the API for a specific course. 
+This scripts purpose is educational to showcase how to use JSON in a call and to act as a reusable snippet of code for other projects.
+
+Usage:
+1) Customize GetCourseEnrollURLTemplate.py with your environment details
+
+Notes;
+- If issues arise compare to the working GetCourseEnrollURL that is meant to target authors env
+- EnrollURL.txt is simply the output of the debug for the main script.
+- EnrollURL.json is the JSON response from the server

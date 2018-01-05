@@ -1,0 +1,12 @@
+Readme
+Description:
+This set of scripts is meant to provide prospects or SE with a POC of an audit trail for course modifications. It does not retrieve the actual changes but returns instead the information about the course, user who made changes and timestamps. 
+
+
+Usage:
+1) Open and configure scriptconfig.py 
+2) Execute CourseChangeAudit.py and test
+
+Notes:
+- These scripts leverages the data dump functionality of Bridge and will need a location to download files
+- These scripts were tested in a RHEL/CentOS/AmazonLinux environments
