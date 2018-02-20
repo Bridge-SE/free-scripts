@@ -1,0 +1,14 @@
+Readme
+Description:
+This script is meant to create a user using the API. 
+This scripts purpose is educational to showcase how to use JSON in a call and to act as a reusable snippet of code for other projects.
+
+Usage:
+1) Customize CreateUserTemplate.py with your environment details
+2) Add user info in the apiPayload variable
+
+Notes;
+- If issues arise compare to the working CreateUserURL 
+- CreateUserResponse.json is the JSON response from the server
+
+NOTE: API keys have been modified as this is a public instance

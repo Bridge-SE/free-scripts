@@ -1,0 +1,14 @@
+Readme
+Description:
+This script is meant to create a course using the API. 
+This scripts purpose is educational to showcase how to use the API parameters to create a custom course.
+
+Usage:
+1) Customize CreateCourseTemplate.py with your environment details
+2) Change course information in the APIPayload to match your new course requirements
+
+Notes;
+- If issues arise compare to the working CreateCourse.py 
+- CreateCourseResponse.json is the JSON response from the server
+
+NOTE: API keys have been modified as this is a public instance

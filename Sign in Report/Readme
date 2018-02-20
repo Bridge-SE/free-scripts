@@ -1,0 +1,13 @@
+Readme
+Description:
+This script is meant to retrieve the sign in reports using the API. 
+This scripts purpose is educational to showcase how to use the API parameters to retrieve the data.
+
+Usage:
+1) Customize SignInReportTemplate.py with your environment details
+
+Notes;
+- If issues arise compare to the working SignInReport.py 
+- SignInReportResponse.json is the JSON response from the server
+
+NOTE: API keys have been modified as this is a public instance

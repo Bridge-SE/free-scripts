@@ -7,6 +7,8 @@ Usage:
 1) Customize GetCourseEnrollURLTemplate.py with your environment details
 
 Notes;
-- If issues arise compare to the working GetCourseEnrollURL that is meant to target authors env
+- If issues arise compare to the working GetCourseEnrollURL 
 - EnrollURL.txt is simply the output of the debug for the main script.
 - EnrollURL.json is the JSON response from the server
+
+NOTE: API keys have been modified as this is a public instance
